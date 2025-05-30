@@ -9,9 +9,10 @@
 - Github
 - Programming sites like Visual Studio 2022, Visual Studio Code, Replit, Scratch, Notepad++
 
-## 🗿Extra thigs about me:
-- I like Videogames
-- I like Anime
-- I like Anime Conventions
-- I like Manga
-- I like Cosplaying
+## 🗿Things I like doing in my free time:
+
+- I like playing Videogames
+- I like watching Anime
+- I like going to Anime Conventions
+- I like reading Manga
+- I like doing Cosplaying
