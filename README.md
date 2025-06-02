@@ -1,4 +1,4 @@
-👋Greetings, I'm @IvanTorchio, I'm in high school studying computer science, the main language I'm studying is C#.
+👋Greetings, I'm @IvanTorchio, I'm aiming to be a programmer, right now I'm in the high school ITI Ettore Majorana studying computer science, the main language I'm studying is C#.
 
 ## ❗Interested in:
 
@@ -15,4 +15,4 @@
 - I like watching Anime
 - I like going to Anime Conventions
 - I like reading Manga
-- I like doing Cosplaying
+- I like doing Cosplay
