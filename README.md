@@ -1,3 +1,5 @@
+#Ivan Torchio | Technical High School Student at ITI.E.Majorana | Junior Software Programmer | Cisco certificate
+
 👋Greetings, I'm @IvanTorchio, I'm aiming to be a programmer, right now I'm in the high school ITI Ettore Majorana studying computer science, the main language I'm studying is C#.
 
 ## ❗Interested in:
